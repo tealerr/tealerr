@@ -18,13 +18,12 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 Here are some projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+- [Website for PIM Smart (E-Commerce)](https://github.com/tealerr/pim-webshop): Create E-Commerce website for my university.
+
 
 ## Contact Me
 
-Feel free to reach out to me through [LinkedIn](your-linkedin-profile) for collaboration or any inquiries.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teeramate-kantima-855057225/) for collaboration or any inquiries.
 
-![Skills](skills-image-url)
+![Skills](https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png)
 
