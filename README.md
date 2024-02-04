@@ -31,5 +31,5 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teer
 <img src="https://miro.medium.com/v2/resize:fit:553/1*wnMQPTmEsIq0TiRgfX4hig.png" alt="Skills" width="10%">
 <img src="https://www.somkiat.cc/wp-content/uploads/2023/08/robot-framework-test-automation-blog.png" alt="Skills" width="10%">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Skills" width="10%">
-<img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" alt="Skills" width="10%">
+<img src="" alt="Skills" width="10%">
 
