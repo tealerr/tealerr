@@ -26,4 +26,7 @@ Here are some projects I've worked on:
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teeramate-kantima-855057225/) for collaboration or any inquiries.
 
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Skills" width="10%">
+<img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png
+" alt="Skills" width="10%">
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Skills" width="10%">
 
