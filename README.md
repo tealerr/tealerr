@@ -26,8 +26,8 @@ Here are some projects I've worked on:
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teeramate-kantima-855057225/) for collaboration or any inquiries.
 
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Skills" width="10%">
-<img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" alt="Skills" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Skills" width="10%">
 <img src="https://www.somkiat.cc/wp-content/uploads/2023/08/robot-framework-test-automation-blog.png" alt="Skills" width="20%">
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Skills" width="20%">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Skills" width="10%">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Skills" width="10%">
 
