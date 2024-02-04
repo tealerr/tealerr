@@ -1,4 +1,4 @@
-![image](https://github.com/tealerr/tealerr/assets/92136019/345b3b1d-dfee-41c5-bd37-a53cfdc99b9c)# 👋 Hi there, I'm [Tea]
+# 👋 Hi there, I'm [Tea]
 
 Welcome to my GitHub profile! I'm passionate about technology and enjoy working with a variety of tools and languages.
 
