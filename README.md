@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ## Skills
 
 - **Languages:** Node.js, React.js, Golang, Java, JavaScript
-- **Frameworks/Libraries:** React.js, Robot Framework
+- **Frameworks/Libraries:** React.js, Bootstrap 5, Robot Framework
 - **Databases:** PostgreSQL, MongoDB
 - **Web Development:** HTML, CSS
 
