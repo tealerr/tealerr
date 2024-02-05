@@ -27,7 +27,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teer
 
 <div style="display: flex; justify-content: center; margin: 50px;">
     <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Skills" width="10%">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Skills" width="10%">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Skills" width="10%" style="border-radius= 20%">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Skills" width="10%">
 </div>
 
