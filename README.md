@@ -32,7 +32,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teer
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Skills" width="10%" style="margin-left: 20px">
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Skills" width="10%" style="margin-left: 200px">
     <img src="https://static-00.iconduck.com/assets.00/robotframework-icon-512x512-wdkxkz5h.png" alt="Skills" width="10%">
 </div>
 
