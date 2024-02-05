@@ -32,7 +32,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/teer
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://www.somkiat.cc/wp-content/uploads/2023/08/robot-framework-test-automation-blog.png" alt="Skills" width="20%">
+    <img src="https://static-00.iconduck.com/assets.00/robotframework-icon-512x512-wdkxkz5h.png" alt="Skills" width="20%">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Skills" width="10%">
 </div>
 
